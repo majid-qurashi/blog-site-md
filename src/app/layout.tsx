@@ -16,7 +16,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: 'Mushtaq Ah Dar',
-  description: 'Developed hy Majid Qurashi',
+  description: 'Blog site',
+  author: 'Majid Qurashi'
 };
 
 export default function RootLayout({
